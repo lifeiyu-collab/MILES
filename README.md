@@ -12,18 +12,4 @@ bash OfficeHome_VIT16.sh
 ```
 
 
-## Citation
 
-If you think this toolkit or the results are helpful to you and your research, please cite us!
-
-```
-@article{lin5704144max,
-  title={A Max-Min Framework for Invariant Learning with Consistency and Diversity in Domain Generalization},
-  author={Lin, Huibin and Zhang, Chun-Yang and Lin, Yuena and Cai, Hai-Chun and Chen, CL},
-  journal={Available at SSRN 5704144}
-}
-```
-
-## Contact
-
-- [Huibin Lin](https://scholar.google.com/citations?user=JB81MwsAAAAJ&hl=en): huibinlin@outlook.com
